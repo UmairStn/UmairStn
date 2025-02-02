@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umair Sulthan</h1>
 
-- 👨‍💻 Software Engineering Student @ NIBM
+- 👨‍💻 Software Engineering undergraduate @ NIBM
 - 🚀 Turning caffeine into code
 - 🌱 Always learning, forever curious
 - 💡 Building the future, one commit at a time
