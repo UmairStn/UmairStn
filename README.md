@@ -62,3 +62,20 @@
 <a href="https://github.com/UmairStn/basic-food-order-website">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UmairStn&repo=basic-food-order-website&theme=tokyonight" />
 </a>
+
+
+<br/>
+<br/>
+<br/>
+
+#
+
+
+
+<br>
+
+
+<br>
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=UmairStn&theme=react-dark&hide_border=true&area=true)
