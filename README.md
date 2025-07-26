@@ -26,7 +26,7 @@
 
 #
 
-### Github Activity ✔:
+### Github Activity ✔
 
 <a href="https://github.com/UmairStn">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairStn&theme=tokyonight" />
