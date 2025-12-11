@@ -19,61 +19,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<br/>
-<br/>
 
 #
-
-### Github Activity ✔
-
-<a href="https://github.com/UmairStn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairStn&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/UmairStn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=UmairStn&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-#
-
-
-### My Projects ✨:
-  
-<a href="https://github.com/UmairStn/Student-Enrollment-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umairStn&repo=Student-Enrollment-System&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/UmairStn/Basic-E-commerce-Store">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UmairStn&repo=Basic-E-commerce-Store&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/UmairStn/Basic-E-commerce-Store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UmairStn&repo=Basic-E-commerce-Store&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/UmairStn/basic-food-order-website">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UmairStn&repo=basic-food-order-website&theme=tokyonight" />
-</a>
-
-
-<br/>
-<br/>
-<br/>
-
-#
-
-
-
-<br>
-
-
-<br>
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=UmairStn&theme=react-dark&hide_border=true&area=true)
