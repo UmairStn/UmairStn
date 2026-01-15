@@ -7,7 +7,6 @@
 - 💡 Building the future, one commit at a time
 
 #
-<img src="https://komarev.com/ghpvc/?username=UmairStn&style=flat-square&color=blue" alt=""/>
 
 <h3 align="center">Tech Stack:</h3>
 <p align="center">  </a>
