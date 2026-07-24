@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Umair Sulthan</h1>
 
 
-- 👨‍💻 Software Engineering undergraduate @ NIBM
-- 🚀 Turning caffeine into code
-- 🌱 Always learning, forever curious
-- 💡 Building the future, one commit at a time
+- 💻 Software Engineering undergraduate @ NIBM
+- 🤖 Building AI-powered applications — RAG chatbots, LLM agents, predictive ML
+- 🚀 Shipped 3 production-style full-stack projects, end-to-end (backend → deployment)
+- 🌱 Open to Software Engineering / AI internships
+
+### Featured Projects
+- [AI RAG Chatbot SaaS](https://github.com/UmairStn/rag-chatbot) — Multi-tenant RAG chatbot, FastAPI + Vector DB + Shadow DOM widget
+- [Roamly](https://github.com/UmairStn/Trip-planner) — AI trip planner using Gemini API, WSO2 Asgardeo auth, Redis rate-limiting
+- [ShoeStore Microservices](https://github.com/UmairStn/ShoeStore-Microservices) — Spring Boot microservices e-commerce platform
+
 
 #
 
