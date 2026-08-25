@@ -3,7 +3,7 @@
 
 - 💻 Software Engineering undergraduate @ NIBM
 - 🤖 Building AI-powered applications — RAG chatbots, LLM agents, predictive ML
-- 🚀 Shipped 3 production-style full-stack projects, end-to-end (backend → deployment)
+- 🚀 Shipped production-style full-stack projects, end-to-end (backend → deployment)
 - 🌱 Open to Software Engineering / AI internships
 
 ### Featured Projects
